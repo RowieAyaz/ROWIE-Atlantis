@@ -1,0 +1,40 @@
+{ 
+
+"Server": {
+"ServerID": "865025766685540352",
+"ServerTag": "✯", 
+"UnServerTag": "●"
+},
+    
+"Staff": {
+
+"register_staff": "865025766756581425",
+"all_commands": "865025766756581425"
+},
+
+"Roles": {
+"man_role": "865025766735478806",
+"woman_role": "865025766735478809",
+"unregister_role": "865025766721716283",
+"tag_role": "865025766747275281",
+"suspect_role": "865025766735478810"
+},
+
+"Channels": {
+"welcome_channel": "865025767519420433",   
+"server_rules_channel": "865289049396084736",
+"register_channel": "865025767104708672",
+"oto-kayıt": "865289049396084736",
+"tag_channel": "865025767519420433"
+},
+
+"Colors": {
+"blue": "#58a3ee",
+"red": "#ee5858",
+"pink": "#e03db9",
+"magenta": "#882cce",
+"cver": "#22af57",
+"cdeny": "#860606",
+"anlik": "#5bccc6",
+"mavis": "#56dbaa"
+}}
